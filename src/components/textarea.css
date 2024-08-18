@@ -1,0 +1,13 @@
+.textarea{
+     border:  none;
+     resize:  none;
+     font-size: 20px;
+     width: 100%;
+     overflow: hidden;
+}
+.textarea:focus{
+    outline: none;
+}
+.textarea::-webkit-scrollbar{
+    display: none;
+}

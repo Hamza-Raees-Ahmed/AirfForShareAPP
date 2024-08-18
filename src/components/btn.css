@@ -1,0 +1,22 @@
+.theme-btn{
+      border: 2px solid #000;
+      padding: 12px 50px;
+      background-color: transparent;
+      border-radius: 5%;
+      /* color: black; */
+      font-size: 23px;
+      cursor: pointer;
+      background-color: #fff;
+      text-align: right;
+}
+.theme-btn:active{
+    /* background-image: linear-gradient(to bottom, #864bff, #5082ff); */
+    
+
+}
+.theme-btn:hover{
+    box-shadow: 1px 1px 1px #5082ff;
+        color: #5082ff;
+    border: 1px solid #5082ff ;
+
+}
